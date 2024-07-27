@@ -50,3 +50,17 @@ body {
  background-color: #0056b3;
  transition: 0.5s all ease;
 }
+
+.students-list {
+
+  display: flex;
+  /* flex-direction: column; */
+  gap: 20px;
+}
+
+.student {
+  background-color: #f9f9f9;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
